@@ -50,7 +50,7 @@ if (fs.existsSync("./Commands")) {
 // PREFIXE
 // ===============================
 
-const prefix = ".";
+const prefix = "*";
 
 
 // ===============================
