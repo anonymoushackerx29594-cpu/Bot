@@ -22,7 +22,7 @@ module.exports = {
 • Node.js
 • Baileys
 
-📌 Préfixe : .
+📌 Préfixe : !
 
 🔥 Merci d'utiliser King 👑 Bot
 
